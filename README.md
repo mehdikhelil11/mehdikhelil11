@@ -75,11 +75,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🏭 **[AG143 Automated Optical Inspection — Final-Year Project](https://github.com/mehdikhelil11/Automated_Opertor_Inspection_FinalYearProject)** | **Production** computer-vision quality-control deployed on a live automotive-antenna line — two-stage pipeline (DenseNet121 → EfficientNetB0), **12,820-image** industrial dataset, **~0.21 s/part CPU inference**, **edge-deployable (TFLite / Raspberry Pi)**, Grad-CAM explainability, leakage-free evaluation | `TensorFlow` `Keras` `DenseNet121` `EfficientNetB0` `OpenCV` `Streamlit` |
 | 🎯 **[YOLOv10 License-Plate Detection](https://github.com/mehdikhelil11/YOLOv10-License-Plate-Detection)** | Custom **object-detection** model localizing vehicle license plates in images &amp; video | `YOLOv10` `PyTorch` `OpenCV` |
-| 📊 **[Predictive Maintenance (ML)](https://github.com/mehdikhelil11/Predictive-Maintenance-ML)** | End-to-end ML pipeline predicting industrial machine failure — **XGBoost · 98.75% acc · 0.97 ROC-AUC** | `scikit-learn` `XGBoost` `pandas` |
 | 🤖 **[MehdiDoc AI (RAG)](https://github.com/mehdikhelil11/MehdiDoc-AI-RAG)** | Document Q&amp;A via **Retrieval-Augmented Generation** — LangChain + Milvus + LLM, Gradio UI | `LangChain` `Milvus` `LLM` `Gradio` |
 
-> **Also built:** AG143 antenna defect-inspection system (final-year project, production deployment) · real-time drowsiness detection · sketch-to-color generative AI · NLP resume classifier · PySpark fraud detection.
+> **Also built:** [Predictive Maintenance — XGBoost (98.75% acc, 0.97 ROC-AUC)](https://github.com/mehdikhelil11/Predictive-Maintenance-ML) · [real-time drowsiness detection](https://github.com/mehdikhelil11/drowsiness-detection-app) · sketch-to-color generative AI · NLP resume classifier · PySpark fraud detection.
 
 ---
 
