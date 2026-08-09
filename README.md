@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mehdi Khelil 👋
+# Hi, I'm Mehdi Khelil 
 
 ### AI &amp; Computer Vision Engineer · Deep Learning · Machine Learning · Generative AI
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 **AI &amp; Computer Vision Engineer** — Engineering degree (Bac+5, **MSc-equivalent**, EQF 7, ASIIN-accredited) in Computer Science, major Artificial Intelligence
-- 🏭 I designed and **deployed a production computer-vision quality-control system on a live automotive production line** — from a custom image-acquisition bench to an edge-deployable model and an operator dashboard
-- 🧠 I work across the full AI stack: **Computer Vision · Object Detection · Predictive Machine Learning · NLP / Generative AI (RAG)**
-- ⚙️ Focused on taking AI from **prototype to production** — edge AI, dashboards, APIs
-- 🌍 Based in **Sousse, Tunisia** · open to **graduate / junior AI roles across Europe**
-- 🗣️ **Arabic** (Native) · **English** (Fluent) · **French** (Fluent)
+-  **AI &amp; Computer Vision Engineer** — Engineering degree (Bac+5, **MSc-equivalent**, EQF 7, ASIIN-accredited) in Computer Science, major Artificial Intelligence
+-  I designed and **deployed a production computer-vision quality-control system on a live automotive production line** — from a custom image-acquisition bench to an edge-deployable model and an operator dashboard
+-  I work across the full AI stack: **Computer Vision · Object Detection · Predictive Machine Learning · NLP / Generative AI (RAG)**
+-  Focused on taking AI from **prototype to production** — edge AI, dashboards, APIs
+-  Based in **Sousse, Tunisia** · open to **graduate / junior AI roles across Europe**
+-  **Arabic** (Native) · **English** (Fluent) · **French** (Fluent)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -71,19 +71,19 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏭 **[AG143 Automated Optical Inspection — Final-Year Project](https://github.com/mehdikhelil11/Automated_Opertor_Inspection_FinalYearProject)** | **Production** computer-vision quality-control deployed on a live automotive-antenna line — two-stage pipeline (DenseNet121 → EfficientNetB0), **12,820-image** industrial dataset, **~0.21 s/part CPU inference**, **edge-deployable (TFLite / Raspberry Pi)**, Grad-CAM explainability, leakage-free evaluation | `TensorFlow` `Keras` `DenseNet121` `EfficientNetB0` `OpenCV` `Streamlit` |
-| 🎯 **[YOLOv10 License-Plate Detection](https://github.com/mehdikhelil11/YOLOv10-License-Plate-Detection)** | Custom **object-detection** model localizing vehicle license plates in images &amp; video | `YOLOv10` `PyTorch` `OpenCV` |
-| 🤖 **[MehdiDoc AI (RAG)](https://github.com/mehdikhelil11/MehdiDoc-AI-RAG)** | Document Q&amp;A via **Retrieval-Augmented Generation** — LangChain + Milvus + LLM, Gradio UI | `LangChain` `Milvus` `LLM` `Gradio` |
+|  **[AG143 Automated Optical Inspection — Final-Year Project](https://github.com/mehdikhelil11/Automated_Opertor_Inspection_FinalYearProject)** | **Production** computer-vision quality-control deployed on a live automotive-antenna line — two-stage pipeline (DenseNet121 → EfficientNetB0), **12,820-image** industrial dataset, **~0.21 s/part CPU inference**, **edge-deployable (TFLite / Raspberry Pi)**, Grad-CAM explainability, leakage-free evaluation | `TensorFlow` `Keras` `DenseNet121` `EfficientNetB0` `OpenCV` `Streamlit` |
+|  **[YOLOv10 License-Plate Detection](https://github.com/mehdikhelil11/YOLOv10-License-Plate-Detection)** | Custom **object-detection** model localizing vehicle license plates in images &amp; video | `YOLOv10` `PyTorch` `OpenCV` |
+|  **[MehdiDoc AI (RAG)](https://github.com/mehdikhelil11/MehdiDoc-AI-RAG)** | Document Q&amp;A via **Retrieval-Augmented Generation** — LangChain + Milvus + LLM, Gradio UI | `LangChain` `Milvus` `LLM` `Gradio` |
 
 > **Also built:** [Predictive Maintenance — XGBoost (98.75% acc, 0.97 ROC-AUC)](https://github.com/mehdikhelil11/Predictive-Maintenance-ML) · [real-time drowsiness detection](https://github.com/mehdikhelil11/drowsiness-detection-app) · sketch-to-color generative AI · NLP resume classifier · PySpark fraud detection.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certification | Issuer |
 |---------------|--------|
@@ -109,9 +109,9 @@
 
 <div align="center">
 
-### 🌍 Open to graduate / junior roles in AI, Computer Vision &amp; Machine Learning across Europe
+###  Open to graduate / junior roles in AI, Computer Vision &amp; Machine Learning across Europe
 
-📫 **mehdikhelil2204@gmail.com** · [LinkedIn](https://www.linkedin.com/in/mehdi-khelil-a004a1225/)
+ **mehdikhelil2204@gmail.com** · [LinkedIn](https://www.linkedin.com/in/mehdi-khelil-a004a1225/)
 
 *"The best way to predict the future is to build it with AI."*
 
