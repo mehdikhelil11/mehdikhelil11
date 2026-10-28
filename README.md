@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehdi_Khelil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-khelil-a004a1225/)
 [![Email](https://img.shields.io/badge/Email-mehdikhelil2204@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdikhelil2204@gmail.com)
-[![Location](https://img.shields.io/badge/Sousse,%20Tunisia-4A90D2?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Milano,%20Italy-4A90D2?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to relocation](https://img.shields.io/badge/Open%20to-EU%20Relocation-16B981?style=for-the-badge)](#)
 
 </div>
